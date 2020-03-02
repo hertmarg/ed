@@ -100,30 +100,35 @@ public partial class MainWindow : Gtk.Window
         Pantalla.DeleteText(0, Pantalla.Text.Length);
         Pantalla.InsertText(display + "/");
     }
+
     protected void OnMultClicked(object sender, EventArgs e)
     {
         String display = Pantalla.Text.ToString();
         Pantalla.DeleteText(0, Pantalla.Text.Length);
         Pantalla.InsertText(display + "*");
     }
+
     protected void OnResClicked(object sender, EventArgs e)
     {
         String display = Pantalla.Text.ToString();
         Pantalla.DeleteText(0, Pantalla.Text.Length);
         Pantalla.InsertText(display + "-");
     }
+
     protected void OnMasClicked(object sender, EventArgs e)
     {
         String display = Pantalla.Text.ToString();
         Pantalla.DeleteText(0, Pantalla.Text.Length);
         Pantalla.InsertText(display + "+");
     }
+
     protected void OnIgualClicked(object sender, EventArgs e)
     {
         String display = Pantalla.Text.ToString();
         Pantalla.DeleteText(0, Pantalla.Text.Length);
         Pantalla.InsertText(display);
     }
+
     protected void OnBVaciarClicked(object sender, EventArgs e)
     {
         Pantalla.DeleteText(0, Pantalla.Text.Length);

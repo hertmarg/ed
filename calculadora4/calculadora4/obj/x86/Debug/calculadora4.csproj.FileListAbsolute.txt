@@ -1,0 +1,6 @@
+/home/hecgra01/Projects/calculadora4/calculadora4/bin/Debug/calculadora4.exe
+/home/hecgra01/Projects/calculadora4/calculadora4/bin/Debug/calculadora4.pdb
+/home/hecgra01/Projects/calculadora4/calculadora4/obj/x86/Debug/calculadora4.csprojAssemblyReference.cache
+/home/hecgra01/Projects/calculadora4/calculadora4/obj/x86/Debug/calculadora4.csproj.CoreCompileInputs.cache
+/home/hecgra01/Projects/calculadora4/calculadora4/obj/x86/Debug/calculadora4.exe
+/home/hecgra01/Projects/calculadora4/calculadora4/obj/x86/Debug/calculadora4.pdb
